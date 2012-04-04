@@ -19,14 +19,7 @@ public class MenuJava extends Activity {
     public boolean onCreateOptionsMenu(Menu menu)
     {
     	// Mostrar o menu
-    	
-    	// Para menus XML:
-    	// MenuInflater menuInflater = getMenuInflater();
-    	// menuInflater.inflate(R.menu.itensmenu, menu);
-    	// return true;
-    	
-    	// Para menus Java
-    	
+
     	boolean result = super.onCreateOptionsMenu(menu); // ?
     	super.onCreateOptionsMenu(menu); // ?
     	
